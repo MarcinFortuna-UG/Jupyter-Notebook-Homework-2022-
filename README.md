@@ -1,1 +1,1 @@
-# Jupyter-Notebook-Homework-2022-
+ Please analyze how we use Jupyter Notebooks and do the homework. 
